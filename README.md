@@ -65,7 +65,9 @@ Because of the large number of connected devices, all ip adresses has already be
 
 
 - ### **<ins>MAC Addresses</ins>**
-  
+
+
+  Ping is using the ICMP protocol
 
 
 
